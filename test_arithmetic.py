@@ -1,3 +1,6 @@
+"""
+    Unit test for arithmetic module
+"""
 import pytest
 from arithmetic import add, subtract, multiply, divide
 
